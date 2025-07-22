@@ -10,4 +10,8 @@ public class MyTestService {
     public void sayHello() {
         log.info("[MyTestService] sayHello");
     }
+
+    public void error(){
+        error...
+    }
 }
